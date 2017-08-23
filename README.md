@@ -26,3 +26,10 @@ Usage
 -----
 
 Push a commit to eg. the `master` branch of your **GitLab** repository.
+
+Resources
+---------
+
+- https://gitlab.com/t-munk/gipsy (Source Demo)
+- https://github.com/herzog-dev/gipsy (Destination Demo)
+- [GitHub profile](https://github.com/schmunk42)
